@@ -18,8 +18,8 @@ Olá, time da Target Sistemas, sejam muito bem vindos ao repositório onde está
    ```
 2. **Clone esse repositório:**
     ```sh
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   cd seu-repositorio
+   git clone https://github.com/udkfer/Target-Sistemas.git
+   cd Target-Sistemas
    ```
 3. **Execute os scripts:**
    ```sh
