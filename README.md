@@ -9,19 +9,19 @@ Olá, time da Target Sistemas, sejam muito bem vindos ao repositório onde está
 
 ### Como Executar os arquivos
 *Acredito que quem está me avaliando já saiba esses detalhes, mas caso precise de alguma clareza, vou deixar o passo a passo.*
-1. **Instale o Lua:**  
+1. **Instalar Lua:**  
    ```sh
    sudo apt install lua  # Linux Debian based distros
    sudo pacman -S lua   # Linux Arch based distros
    brew install lua         # macOS
    choco install lua        # Windows
    ```
-2. **Clone esse repositório:**
+2. **Clonar esse repositório:**
     ```sh
    git clone https://github.com/udkfer/Target-Sistemas.git
    cd Target-Sistemas
    ```
-3. **Execute os scripts:**
+3. **Executar os scripts:**
    ```sh
     lua questao?.lua
    ```
